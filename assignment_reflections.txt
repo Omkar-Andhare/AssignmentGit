@@ -1,0 +1,27 @@
+Assignment Reflections
+
+Assignment Title: Git Assignment
+Date: 5th oct 2023
+
+Summary of Experience:
+----------------------
+During this assignment, I gained a fundamental understanding of Git version control and its importance in software development. I learned make commits, create branches, and merge changes. The assignment provided valuable hands-on experience, allowing me to grasp the concepts effectively.
+
+Challenges Faced:
+-----------------
+One of the challenges I faced for pushing code from local to remote. I tried authenticated by password but no longer accept account passwords when authenticating Git operations.So it took time for explore token based authentication. 
+
+Lessons Learned:
+----------------
+I learned how to initiate a Git repository, make commits, create branches, and merge changes. The assignment provided valuable hands-on experience, allowing me to grasp the concepts effectively.
+
+Improvements:
+------------------------------
+To improve further, I plan to explore more advanced Git concepts.
+
+Closing Thoughts:
+-----------------
+Overall, this Git assignment was a valuable learning experience. It laid the foundation for effective version control in my software development journey.
+
+Omkar Andhare.
+
