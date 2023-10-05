@@ -1,3 +1,5 @@
-hello omkar here
-I am java developer
-and exploring technology
+hello omkar here.
+I am java developer.
+and exploring technology.
+Here learning a patch concept in git.
+
