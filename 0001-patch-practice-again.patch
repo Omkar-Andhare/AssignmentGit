@@ -1,0 +1,22 @@
+From a2395feb705d2191ab19a1dfae06450d1fa1b1bd Mon Sep 17 00:00:00 2001
+From: Omkar Andhare <omkar.andhare@perennial.com>
+Date: Sun, 8 Oct 2023 22:36:31 +0530
+Subject: [PATCH] patch practice again
+
+---
+ hello.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/hello.txt b/hello.txt
+index 58d6ac6..3ded0bb 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -2,4 +2,5 @@ hello omkar here.
+ I am java developer.
+ and exploring technology.
+ Here learning a patch concept in git.
++Patch concept practising again
+ 
+-- 
+2.34.1
+
